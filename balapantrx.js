@@ -529,7 +529,7 @@ function handleSwitchClick() {
                 Swal.showLoading();
             },
             willClose: () => {
-                window.location.href = "https://ngeklik.my.id/produk-terlaris";
+                window.location.href = "https://k4ngujang.github.io/produk-terlaris/";
             }
         });
     }, { once: true });
